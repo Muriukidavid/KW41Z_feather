@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name MKW41Z-board)(type Legacy)(uri /home/muriuki/kicad_sources/mylibrary-repos/wireless_mcus/MKW41Z-board.lib)(options "")(descr ""))
+  (lib (name sdcard_1051620101)(type Legacy)(uri /home/muriuki/kicad_sources/mylibrary-repos/sdcard_1051620101.lib)(options "")(descr ""))
+)

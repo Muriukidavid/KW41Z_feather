@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name mk41z512vht4)(type KiCad)(uri /home/muriuki/src/kw41z-board/mk41z512vht4.pretty)(options "")(descr ""))
+  (lib (name artwork)(type KiCad)(uri /home/muriuki/kicad_sources/mylibrary-repos/artwork.pretty)(options "")(descr ""))
+)
